@@ -1,0 +1,35 @@
+{
+	"name": [
+		"Cayde",
+		"Ikora",
+		"Zavala",
+		"Hawthorne",
+		"Devrim",
+		"Petra"
+	],
+	"occupation": [
+		"merchant",
+		"wizard",
+		"fighter",
+		"magician",
+		"awoken",
+		"gatherer"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #outcome1#."
+	],
+	"always": [
+		"rarely",
+		"never",
+		"somtimes",
+		"often"
+	],
+	"expecting": [
+		"hoping",
+		"anticipating",
+		"waiting"
+	],
+	"outcome1": [
+		"way of life"
+	]
+}
